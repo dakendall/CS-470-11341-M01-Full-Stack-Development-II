@@ -1,3 +1,3 @@
 # CS-470-11341-M01-Full-Stack-Development-II
-Scenario
+Scenario:
 You are a developer for QnA, a startup company. You just finished developing a full stack web application. After implementing in-house servers, you watched app usage take off. It’s an exciting time for the company. The company is growing, and you can feel the growing pains. The company is expecting a drastic increase in customers. The once-fluid office environment allowed customers to choose their favorite devices and platforms. But you’ve noticed that this environment has led to major limitations in collaboration. Development has become siloed. Sometimes, only one key person can manage certain aspects of the application. You need a solution for moving the application to a cloud-based framework. Moving to the cloud will allow your application to expand with the growing company.
